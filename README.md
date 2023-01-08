@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sagarverma
+- 👋 Hi, I’m Sagar
 - 👀 I’m CTO and Co-Founder at Granular AI
 - 🌱 I’m excited about making neural networks efficient.
-- 💞️ I’m looking to collaborate on Frugal AI and Trustworth AI.
+- 💞️ I’m looking to collaborate on Trustworthy and Frugal AI.
 - 📫 Contact me at sagar@granular.ai
 
 <!---
