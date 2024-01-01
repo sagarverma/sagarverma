@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sagar
-- 👀 I’m CTO and Co-Founder at Granular AI
+- 👀 I’m CTO and Co-Founder of Granular AI
 - 🌱 I’m excited about making neural networks efficient.
 - 💞️ I’m looking to collaborate on Trustworthy and Frugal AI.
 - 📫 Contact me at sagar@granular.ai
